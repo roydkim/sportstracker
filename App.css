@@ -1,0 +1,81 @@
+.App-header {
+  min-height: 88.1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+
+.Fixed-header {
+  font-size: calc(10px + 1.5vmin);
+  margin: auto;
+  padding: auto;
+}
+
+.Fixed-footer {
+  font-size: calc(10px + 0.5vmin);
+  margin: auto;
+  padding: auto;
+  position: relative;
+}
+
+.App {
+  text-align: center;
+  background-color: #24272e;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#header {
+  margin: 0px;
+  padding: 0px;
+  color:rgb(187, 149, 231);
+}
+
+h2 {
+  color:rgb(255, 255, 255)
+}
+
+#caption{
+  color:moccasin;
+  padding: 0x;
+}
+
+th{
+  font-size:130%
+}
+
+table, th, td, tr, thead, tbody{
+  border: 2px solid white;
+  margin: 1em;
+}
+
+th, td, tr, thead, tbody {
+  min-width: 300px;
+  padding: 0px;
+}
+
+#zipheader{
+  color: moccasin;
+}
+
+input {
+  margin: 10px;
+}
+
+article{
+  position: relative;
+  bottom: 50px;
+}
+
+.button{
+  color:gray
+}
+
+.button i:hover{
+  cursor: pointer;
+}
