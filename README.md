@@ -1,2 +1,2 @@
 # sportstracker
-tracks scores of nba and nfl
+tracks scores of live nba games
